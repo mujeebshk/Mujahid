@@ -1,2 +1,0 @@
-# Mujahid
-A college webpage
